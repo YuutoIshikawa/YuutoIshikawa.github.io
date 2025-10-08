@@ -13,8 +13,49 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+---
+---
+
+## Journal Articles
+
 <div class="publications">
 
-{% bibliography %}
+{% bibliography -f journal %}
 
 </div>
+
+---
+---
+
+## International Conference Papers (Peer-Reviewed)
+
+<div class="publications">
+
+{% bibliography -f int_conf_peer_review %}
+
+</div>
+
+---
+---
+
+## International Conference Papers (Non-Peer-Reviewed)
+
+<div class="publications">
+
+{% bibliography -f int_conf_non_peer_review %}
+
+</div>
+
+---
+---
+
+## Domestic Conference Papers
+
+<div class="publications">
+
+{% bibliography -f dom_conf %}
+
+</div>
+
+---
+---
