@@ -59,8 +59,13 @@ My research interests include real-time speech enhancement and source separation
 - 28th Best Student Presentation Award, Acoustical Society of Japan (ASJ) / 日本音響学会第28回学生優秀発表賞 <br>
   *Jul. 2024*
 
+- APSIPA Three-Minute Thesis (3MT) Competition Finalist <br>
+  *Oct. 2025*
+
 ### Grants & Scholarships
 
 - JST Support for Pioneering Research Initiated by the Next Generation (SPRING) Program, The University of Tokyo "Advanced Human Resource Development Leading Green Transformation (GX) (SPRING GX)" Project student <br>
-  *Apr. 2025 -- Present*
+  *Apr. 2025 -- Mar. 2026*
 
+- JSPS Research Fellowships for Young Scientists (DC2) <br>
+  *Apr. 2026 -- Present*
