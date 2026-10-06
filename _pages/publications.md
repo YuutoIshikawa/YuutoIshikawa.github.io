@@ -49,6 +49,17 @@ nav_order: 2
 ---
 ---
 
+## Preprints
+
+<div class="publications">
+
+{% bibliography -f preprint %}
+
+</div>
+
+---
+---
+
 ## Domestic Conference Papers
 
 <div class="publications">
